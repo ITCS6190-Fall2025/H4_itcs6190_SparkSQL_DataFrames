@@ -19,7 +19,7 @@ verified_status = [True, False]
 for user_id in range(1, 51):
     user = {
         "UserID": user_id,
-        "Username": usernames[user_id - 1],
+        "Username": random.choice(usernames) + str(user_id),
         "AgeGroup": random.choice(age_groups),
         "Country": random.choice(countries),
         "Verified": random.choice(verified_status)
