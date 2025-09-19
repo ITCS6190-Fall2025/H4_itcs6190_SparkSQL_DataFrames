@@ -1,4 +1,4 @@
-# handson-08-sparkSQL-dataframes-social-media-sentiment-analysis
+# handson-04-sparkSQL-dataframes-social-media-sentiment-analysis
 
 ## **Prerequisites**
 
